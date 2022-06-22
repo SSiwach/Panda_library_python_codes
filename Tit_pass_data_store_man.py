@@ -12,3 +12,6 @@ df = pd.DataFrame(
     }
 )
 df
+
+
+df["Age"] !to show df column
